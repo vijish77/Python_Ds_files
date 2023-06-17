@@ -1,5 +1,8 @@
 #Max sub arrays sum
-#Note Total no of subarrays N(N+1)/2
+#
+# Note
+# Total no of subarrays N(N+1)/2
+# Time Complexity O(N)3
 
 arr = [-7, 4, 3, -2, -8, 6, -4, 2]
 
